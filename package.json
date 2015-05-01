@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, calendar, iCal",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-ical-notifier.git"
+    "url": "git://github.com/ryota-ka/hubot-ical-notifier.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-ical-notifier/issues"
+    "url": "https://github.com/ryota-ka/hubot-ical-notifier/issues"
   },
   "dependencies": {
     "async": "^0.9.0",
