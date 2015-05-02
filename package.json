@@ -1,7 +1,7 @@
 {
   "name": "hubot-ical-notifier",
   "description": "Notifies schedule for tomorrow from registered iCal calendars",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ryota Kameoka <kameoka.ryota@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, calendar, iCal",
