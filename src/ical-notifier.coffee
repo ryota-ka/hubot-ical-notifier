@@ -78,7 +78,7 @@ module.exports = (robot) ->
         "#{e.summary}#{location} (#{time})"
       .join "\n"
 
-      robot.send { room: config.channel }, text
+      robot.send { room: config.room }, text
 
 
   robot.respond /cal:add (.+)/, (msg) ->
